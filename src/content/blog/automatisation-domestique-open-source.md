@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "L'Automatisation Domestique Open Source : Reprenez le Contrôle de Votre Foyer"
-date: 2026-02-21
+date: "2026-02-21"
 tags: [domotique, open-source, automatisation, smart home, vie connectée, DIY, confidentialité, Home Assistant, OpenHAB, Node-RED]
 draft: false
 ---
