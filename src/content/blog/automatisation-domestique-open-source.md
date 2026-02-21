@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "L'Automatisation Domestique Open Source : Reprenez le Contrôle de Votre Foyer"
 date: "2026-02-21"
@@ -88,4 +87,3 @@ L'automatisation domestique open source est bien plus qu'une simple collection d
 Que vous soyez un développeur chevronné ou un débutant curieux, les communautés autour de projets comme Home Assistant et OpenHAB sont incroyablement accueillantes et riches en ressources pour vous aider à démarrer. L'investissement initial en temps et en apprentissage est largement compensé par la satisfaction de créer un foyer véritablement intelligent et sur mesure.
 
 Alors, êtes-vous prêt à repousser les limites de votre maison connectée et à prendre le contrôle total ? L'aventure open source vous attend. Votre foyer vous remerciera.
-```
