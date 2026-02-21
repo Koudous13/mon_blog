@@ -1,6 +1,6 @@
 ---
 title: "Prenez le Contrôle : L'Automatisation Domestique Open-Source, Votre Cerveau pour la Maison Intelligente"
-date: 2026-02-21
+date: "2026-02-21"
 tags: ["domotique", "open-source", "maison intelligente", "automatisation", "vie privée", "DIY", "technologie"]
 draft: false
 ---
